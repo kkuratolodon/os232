@@ -7,4 +7,8 @@ ZCZC W00 15 L05 Downloading SEB and testing dummy quiz.
 ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 120 L05 Studying for quiz.
 ZCZC W00 30 L05 Quiz week 0 (including setting up zoom).
-ZCZC W01 120 L11 Assignments #01 downloading virtual box, etc
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 120 L11 Assignment #01, downloading virtual box, etc
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 120 L11 Assignment #01, finishing Assignment #01
+
