@@ -1,5 +1,5 @@
-# OS232
+# OS232 (Operating Systems Odd Semester 2023/2024)
 
-|| [TARBALL]() || [LOG](TXT/mylog.txt) || [LINKS](https://kkuratolodon.github.io/os232/LINKS/) || [GitHub](https://github.com/kkuratolodon/os232/) ||
+|| [TARBALL]() || [LOG](TXT/mylog.txt) || [LINKS](LINKS/) || [GitHub](https://github.com/kkuratolodon/os232/) ||
 
-#### REV02: Sat 09 Sep 2023 11:17
+#### REV04: Sun 10 Sep 2023 19:19
