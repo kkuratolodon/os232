@@ -15,3 +15,7 @@ ZCZC W01 60 L05 Studying for quiz week 1
 ZCZC W01 15 L08 OS Chat related with friends
 ZCZC W01 30 L01 SCELE/Discord related
 ZCZC W01 30 L05 week 1 Quiz.
+ZCZC W01 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 15 L04 GitHub Pages related
+ZCZC W01 15 L01 SCELE/Discord related
+ZCZC W01 5 L41 TXT/mylog.txt related.
