@@ -24,4 +24,7 @@ Penjelasan tentang Virtual Memory <br>
 Video penjelasan tentang virtual memory<br>
 10. [Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)<br>
 Penjelasan tentang shared memory<br>
-
+11. [Fork() | PID | PPID| System calls | Linux | C | OS](https://www.youtube.com/watch?v=0LgmJMrgVNY&ab_channel=GearPath)<br>
+Penjelasan tentang fork(), PID dan PPID. <br>
+12. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
+Penjelasan tentang concurrency. <br>
