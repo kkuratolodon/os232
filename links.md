@@ -28,3 +28,7 @@ Penjelasan tentang shared memory<br>
 Penjelasan tentang fork(), PID dan PPID. <br>
 12. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
 Penjelasan tentang concurrency. <br>
+13. [Semaphores](https://www.youtube.com/watch?v=XDIOC2EY5JE&ab_channel=NesoAcademy)<br>
+Penjelasan tentang semaphore. <br>
+14. [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY&ab_channel=GeeksforGeeks)<br>
+Penjelasan singkat tentang deadlock <br>
