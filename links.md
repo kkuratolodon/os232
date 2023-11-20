@@ -32,3 +32,7 @@ Penjelasan tentang concurrency. <br>
 Penjelasan tentang semaphore. <br>
 14. [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY&ab_channel=GeeksforGeeks)<br>
 Penjelasan singkat tentang deadlock <br>
+15. [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=kc2-ay54kBN3r_Lj)<br>
+(penting) playlist you untuk tugas week 8 (linux from scratch) <br>
+16. [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/)<br>
+(penting) buku linux from scratch
