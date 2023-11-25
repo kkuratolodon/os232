@@ -36,3 +36,5 @@ Penjelasan singkat tentang deadlock <br>
 (penting) playlist you untuk tugas week 8 (linux from scratch) <br>
 16. [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/)<br>
 (penting) buku linux from scratch
+17. [What is a RAID Array, RAID 0, 1, 5, 10. Advantages and Disadvantages of RAID 0. 1. 5 10](https://www.youtube.com/watch?v=MZfRxjEGRj4&ab_channel=IT-Made-Easy)<br>
+penjelasan mengenai RAID <br>
